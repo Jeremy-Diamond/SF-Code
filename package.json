@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/Jeremy-Diamond.lwc-kupmnsbm",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 44qeyFD1MVx4KQkm3lxH --open"
+  }
+}
